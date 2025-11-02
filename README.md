@@ -8,6 +8,7 @@ Changes Made to linear_regression.py
 - Implemented RandomForestRegressor alongside the original ElasticNet model
 - Logs separate parameters: model_type, n_estimators, max_depth
 - Creates a second MLflow run for performance comparison
+- 
 Result: Random Forest achieved better R sq score (0.505 vs 0.108)
 
 2. Added Prediction Analysis Function
@@ -29,5 +30,6 @@ Result: model evaluation with 6 metrics instead of 3
  - Number of test samples 
  - Number of features 
  - Target variable range 
+
 
 
