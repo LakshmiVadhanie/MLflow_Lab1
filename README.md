@@ -1,5 +1,7 @@
 # MLflow Lab 1
 
+I've attached the output screenshots reflecting the changes mentioned below in the 'Output screenshots' folder
+
 Changes Made to linear_regression.py
 
 1. Added Random Forest Model for Comparison
@@ -27,4 +29,5 @@ Result: model evaluation with 6 metrics instead of 3
  - Number of test samples 
  - Number of features 
  - Target variable range 
+
 
