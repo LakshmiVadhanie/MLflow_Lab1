@@ -26,10 +26,11 @@ Result: model evaluation with 6 metrics instead of 3
 3. Added Dataset Information Display
 - Created print_dataset_info() function
 - Displays key dataset statistics:
- - Number of training samples 
- - Number of test samples 
- - Number of features 
- - Target variable range 
+  - Number of training samples 
+  - Number of test samples 
+  - Number of features 
+  - Target variable range 
+
 
 
 
