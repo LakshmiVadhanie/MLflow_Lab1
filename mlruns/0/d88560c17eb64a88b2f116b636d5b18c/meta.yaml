@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lakshmivadhanie/Downloads/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab1/mlruns/0/d88560c17eb64a88b2f116b636d5b18c/artifacts
+end_time: 1762102456311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d88560c17eb64a88b2f116b636d5b18c
+run_name: tasteful-cow-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762102454751
+status: 4
+tags: []
+user_id: lakshmivadhanie

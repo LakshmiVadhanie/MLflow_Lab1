@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lakshmivadhanie/Downloads/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab1/mlruns/0/8eed9c496292455486442a34aa332619/artifacts
+end_time: 1762101762195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eed9c496292455486442a34aa332619
+run_name: agreeable-moose-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762101759891
+status: 3
+tags: []
+user_id: lakshmivadhanie

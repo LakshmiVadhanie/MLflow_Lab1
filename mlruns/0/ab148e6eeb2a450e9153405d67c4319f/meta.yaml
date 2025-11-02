@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lakshmivadhanie/Downloads/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab1/mlruns/0/ab148e6eeb2a450e9153405d67c4319f/artifacts
+end_time: 1762102463174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab148e6eeb2a450e9153405d67c4319f
+run_name: classy-swan-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762102460859
+status: 3
+tags: []
+user_id: lakshmivadhanie

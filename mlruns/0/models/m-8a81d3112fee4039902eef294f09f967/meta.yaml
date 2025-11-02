@@ -1,0 +1,10 @@
+artifact_location: file:///Users/lakshmivadhanie/Downloads/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab1/mlruns/0/models/m-8a81d3112fee4039902eef294f09f967/artifacts
+creation_timestamp: 1762102449743
+experiment_id: '0'
+last_updated_timestamp: 1762102451965
+model_id: m-8a81d3112fee4039902eef294f09f967
+model_type: null
+name: model
+source_run_id: 74676834035b421e97de0d2bc33383f0
+status: 2
+status_message: null

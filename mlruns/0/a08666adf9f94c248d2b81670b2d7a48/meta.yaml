@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lakshmivadhanie/Downloads/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab1/mlruns/0/a08666adf9f94c248d2b81670b2d7a48/artifacts
+end_time: 1762102460783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a08666adf9f94c248d2b81670b2d7a48
+run_name: fun-fox-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762102458536
+status: 3
+tags: []
+user_id: lakshmivadhanie
